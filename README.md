@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ntantan</h1>
+<h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A student at 42 Paris</h3>
 
 - 🌱 I’m currently learning **Cybersecurity**
