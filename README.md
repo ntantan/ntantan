@@ -93,3 +93,27 @@
   </tr>
 </tbody>
 </table>
+
+<h3 align="center">Level 3</h3>
+
+<table align="center">
+<thead align="center">
+  <tr>
+    <th width="150">Link</th>
+    <th width="700">Description</th>
+    <th width="150">Technos</th>
+  </tr>
+</thead>
+<tbody align="center">
+  <tr>
+    <td><a href="https://github.com/ntantan/ft_minishell">minishell</a></td>
+    <td>Write a simplified version of a shell</td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ntantan/ft_philosophers">philosophers</a></td>
+    <td>A simulation of philosophers fighting each other for spaghetti, using threads and mutexes</td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
+  </tr>
+</tbody>
+</table>
