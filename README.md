@@ -64,3 +64,32 @@
   </tr>
 </tbody>
 </table>
+
+<h3 align="center">Level 2</h3>
+
+<table align="center">
+<thead align="center">
+  <tr>
+    <th width="150">Link</th>
+    <th width="700">Description</th>
+    <th width="150">Technos</th>
+  </tr>
+</thead>
+<tbody align="center">
+  <tr>
+    <td><a href="https://github.com/ntantan/ft_so_long">so_long</a></td>
+    <td>Create a basic 2d game in which the player can escape the map after collecting some items</td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ntantan/ft_pushswap">pushswap</a></td>
+    <td>SORT STACKS</td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ntantan/ft_minitalk">minitalk</a></td>
+    <td>Send messages between two process using unix signals</td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
+  </tr>
+</tbody>
+</table>
