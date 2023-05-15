@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/ntantan/ft_pushswap">pushswap</a></td>
-    <td>SORT STACKS</td>
+    <td>Sort a stack of number using a set of moves</td>
     <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
   </tr>
   <tr>
@@ -172,6 +172,26 @@
     <td><a href="https://github.com/ntantan/ft_webserv">webserv</a></td>
     <td>A HTTP server in C++ 98</td>
     <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/></td>
+  </tr>
+  </tr>
+</tbody>
+</table>
+
+<h3 align="center">Level 6</h3>
+
+<table align="center">
+<thead align="center">
+  <tr>
+    <th width="150">Link</th>
+    <th width="700">Description</th>
+    <th width="150">Technos</th>
+  </tr>
+</thead>
+<tbody align="center">
+  <tr>
+    <td><a href="https://github.com/ntantan/ft_transcendence">ft_transcendence</a></td>
+    <td>A full stack website that run an online multiplayer pong, a real-time chat and a user management system</td>
+    <td></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="20" height="20"/> </a><a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="20" height="20"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/></td>
   </tr>
   </tr>
 </tbody>
