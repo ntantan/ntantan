@@ -22,9 +22,9 @@
 <table align="center">
 <thead align="center">
   <tr>
-    <th>Link</th>
-    <th>Description</th>
-    <th>Technos</th>
+    <th width="150">Link</th>
+    <th width="700">Description</th>
+    <th width="150">Technos</th>
   </tr>
 </thead>
 <tbody align="center">
@@ -32,6 +32,35 @@
     <td><a href="https://github.com/ntantan/ft_libft">Libft</a></td>
     <td>A custom implementation of libc</td>
     <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
+  </tr>
+</tbody>
+</table>
+
+<h3 align="center">Level 1</h3>
+
+<table align="center">
+<thead align="center">
+  <tr>
+    <th width="150">Link</th>
+    <th width="700">Description</th>
+    <th width="150">Technos</th>
+  </tr>
+</thead>
+<tbody align="center">
+  <tr>
+    <td><a href="https://github.com/ntantan/ft_printf">printf</a></td>
+    <td>Write a library that contains ft_printf(), a function that will mimic the original printf()</td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ntantan/ft_get_next_line">get_next_line</a></td>
+    <td>Write a function that returns a line read from a file descriptor</td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a>born2beroot</a></td>
+    <td>An introduction to virtual machines and server</td>
+    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></td>
   </tr>
 </tbody>
 </table>
