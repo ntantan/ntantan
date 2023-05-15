@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">A student at 42 Paris 💻</h3>
+<h3 align="center">A student at 42 Paris</h3>
 
-<h3 align="center">Currently looking for an Internship 🔎</h3>
+<h3 align="center">🔎 Currently looking for an Internship 🔎</h3>
 
 <h4 align="center">Connect with me <a href="https://linkedin.com/in/ntanl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ntanl" height="15" width="15" /></a></h4>
 
