@@ -151,7 +151,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/ntantan/ft_piscine_cpp">piscine_cpp</a></td>
-    <td>9 modules to learn about C++ language and programming paradigm</td>
+    <td>9 modules to learn about C++ language and programming paradigms</td>
     <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/></td>
   </tr>
     <tr>
