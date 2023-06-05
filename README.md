@@ -218,7 +218,7 @@
 
 ![student at 42 Paris (2)](https://github.com/ntantan/ntantan/assets/78843500/0fece2ae-a3dd-4d68-90f8-30ac6b0a356c)
 
-<h3 align="center">◦ CodinGame ◦</h3>
+<h3 align="center"><a href=https://www.codingame.com>◦ CodinGame ◦</a></h3>
 
 <table align="center">
 <thead align="center">
@@ -231,18 +231,19 @@
 <tbody align="center">
   <tr>
     <td><a href=https://github.com/ntantan/codingame_spring2023>Codingame Spring Challenge 2023</a></td>
-    <td>Bots programming. Collect faster and more resources than your opponent to win the game ! 
-        Ranking : 228 / 5290 (World) 
+    <td>Bots programming. Harvest some crystals and eggs to rule over the world, but first over your opponent<br>
+        Ranking : 228 / 5290 (World)<br>
         <a href=https://www.codingame.com/challengereport/59730932bf94c87c2d244847dc84feb1b0bf8003>Link to the report</a></td>
     <td><a href="https://cplusplus.com/reference/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/></td>
   </tr>
   
   <tr>
     <td>Codingame Spring Challenge 2022</a></td>
-    <td>Bots programming, Spinning knights, zooming spiders.
-        Ranking : 267 / 7695 (World) 
-        <a href=https://www.codingame.com/challengereport/485005535d997a3b2e3f2ee424080b5ae629f217>Link to the report</a></td>
-    <td<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
+    <td>Bots programming, Spinning knights, zooming spiders.<br>
+        Ranking : 267 / 7695 (World)<br>
+        <a href=https://www.codingame.com/challengereport/485005535d997a3b2e3f2ee424080b5ae629f217>Link to the report</a>
+    </td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
   </tr>
 </tbody>
 </table>
