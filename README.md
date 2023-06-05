@@ -232,10 +232,17 @@
   <tr>
     <td><a href=https://github.com/ntantan/codingame_spring2023>Codingame Spring Challenge 2023</a></td>
     <td>Bots programming. Collect faster and more resources than your opponent to win the game ! 
-        Ranking : 228th / 5290 (World) 
+        Ranking : 228 / 5290 (World) 
         <a href=https://www.codingame.com/challengereport/59730932bf94c87c2d244847dc84feb1b0bf8003>Link to the report</a></td>
     <td><a href="https://cplusplus.com/reference/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/></td>
   </tr>
+  
+  <tr>
+    <td>Codingame Spring Challenge 2022</a></td>
+    <td>Bots programming, Spinning knights, zooming spiders.
+        Ranking : 267 / 7695 (World) 
+        <a href=https://www.codingame.com/challengereport/485005535d997a3b2e3f2ee424080b5ae629f217>Link to the report</a></td>
+    <td<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
   </tr>
 </tbody>
 </table>
