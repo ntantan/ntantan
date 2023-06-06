@@ -29,6 +29,86 @@
 
 <h1></h1>
 
+![student at 42 Paris (2)](https://github.com/ntantan/ntantan/assets/78843500/0fece2ae-a3dd-4d68-90f8-30ac6b0a356c)
+
+<h3 align="center"><a href=https://www.codingame.com>◦ CodinGame ◦</a></h3>
+
+<table align="center">
+<thead align="center">
+  <tr>
+    <th width="150">Link</th>
+    <th width="700">Description</th>
+    <th width="150">Technos</th>
+  </tr>
+</thead>
+<tbody align="center">
+  <tr>
+    <td><a href=https://github.com/ntantan/codingame_spring2023>Codingame Spring Challenge 2023</a></td>
+    <td>Bots programming. Harvest some crystals and eggs to rule over the world, but first over your opponent<br>
+        Ranking : 228 / 5290 (World)<br>
+        <a href=https://www.codingame.com/challengereport/59730932bf94c87c2d244847dc84feb1b0bf8003>Link to the report</a></td>
+    <td><a href="https://cplusplus.com/reference/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/></td>
+  </tr>
+  
+  <tr>
+    <td>Codingame Spring Challenge 2022</a></td>
+    <td>Bots programming, Spinning knights, zooming spiders.<br>
+        Ranking : 267 / 7695 (World)<br>
+        <a href=https://www.codingame.com/challengereport/485005535d997a3b2e3f2ee424080b5ae629f217>Link to the report</a>
+    </td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
+  </tr>
+</tbody>
+</table>
+
+<br></br>
+
+<h1></h1>
+
+![student at 42 Paris (3)](https://github.com/ntantan/ntantan/assets/78843500/9790c480-6cc2-430d-a1eb-9fd3d2cec947)
+
+<h3 align="center">◦ Cybersecurity ◦</h3>
+
+<table align="center">
+<thead align="center">
+  <tr>
+    <th width="150">Link</th>
+    <th width="700">Description</th>
+    <th width="150">Technos</th>
+  </tr>
+</thead>
+<tbody align="center">
+  <tr>
+    <td><a href="https://github.com/ntantan/ft_snowcrash">ft_snowcrash</a></td>
+    <td>Find all vulnerabilities in a virtual machine</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+<h3 align="center">◦ Algo & AI ◦</h3>
+
+<table align="center">
+<thead align="center">
+  <tr>
+    <th width="150">Link</th>
+    <th width="700">Description</th>
+    <th width="150">Technos</th>
+  </tr>
+</thead>
+<tbody align="center">
+  <tr>
+    <td><a href="https://github.com/ntantan/ft_piscine_python">Piscine Python</a></td>
+    <td>42 Python and ML Modules</td>
+    <td><a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="20" height="20"/></td>
+  </tr>
+</tbody>
+</table>
+
+<br></br>
+
+<h1></h1>
+
 ![Common core](https://github.com/ntantan/ntantan/assets/78843500/724d90d6-602e-403d-a9dc-1a07e553c4d2)
 
 
@@ -208,42 +288,6 @@
     <td>A full stack website that runs an online multiplayer pong, a real-time chat and a user management system</td>
     <td></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="20" height="20"/> </a><a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="20" height="20"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/></td>
   </tr>
-  </tr>
-</tbody>
-</table>
-
-<br></br>
-
-<h1></h1>
-
-![student at 42 Paris (2)](https://github.com/ntantan/ntantan/assets/78843500/0fece2ae-a3dd-4d68-90f8-30ac6b0a356c)
-
-<h3 align="center"><a href=https://www.codingame.com>◦ CodinGame ◦</a></h3>
-
-<table align="center">
-<thead align="center">
-  <tr>
-    <th width="150">Link</th>
-    <th width="700">Description</th>
-    <th width="150">Technos</th>
-  </tr>
-</thead>
-<tbody align="center">
-  <tr>
-    <td><a href=https://github.com/ntantan/codingame_spring2023>Codingame Spring Challenge 2023</a></td>
-    <td>Bots programming. Harvest some crystals and eggs to rule over the world, but first over your opponent<br>
-        Ranking : 228 / 5290 (World)<br>
-        <a href=https://www.codingame.com/challengereport/59730932bf94c87c2d244847dc84feb1b0bf8003>Link to the report</a></td>
-    <td><a href="https://cplusplus.com/reference/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/></td>
-  </tr>
-  
-  <tr>
-    <td>Codingame Spring Challenge 2022</a></td>
-    <td>Bots programming, Spinning knights, zooming spiders.<br>
-        Ranking : 267 / 7695 (World)<br>
-        <a href=https://www.codingame.com/challengereport/485005535d997a3b2e3f2ee424080b5ae629f217>Link to the report</a>
-    </td>
-    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></td>
   </tr>
 </tbody>
 </table>
