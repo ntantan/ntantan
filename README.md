@@ -117,7 +117,7 @@
 <table align="center">
 <thead align="center">
   <tr>
-    <th width="150">Link</th>
+    <th width="200">Link</th>
     <th width="600">Description</th>
     <th width="100">Skills</th>
     <th width="100">Technos</th>
@@ -138,7 +138,7 @@
 <table align="center">
 <thead align="center">
   <tr>
-    <th width="150">Link</th>
+    <th width="200">Link</th>
     <th width="600">Description</th>
     <th width="100">Skills</th>
     <th width="100">Technos</th>
@@ -171,7 +171,7 @@
 <table align="center">
 <thead align="center">
   <tr>
-    <th width="150">Link</th>
+    <th width="200">Link</th>
     <th width="600">Description</th>
     <th width="100">Skills</th>
     <th width="100">Technos</th>
@@ -204,7 +204,7 @@
 <table align="center">
 <thead align="center">
   <tr>
-    <th width="150">Link</th>
+    <th width="200">Link</th>
     <th width="600">Description</th>
     <th width="100">Skills</th>
     <th width="100">Technos</th>
@@ -231,7 +231,7 @@
 <table align="center">
 <thead align="center">
   <tr>
-    <th width="150">Link</th>
+    <th width="200">Link</th>
     <th width="600">Description</th>
     <th width="100">Skills</th>
     <th width="100">Technos</th>
@@ -264,7 +264,7 @@
 <table align="center">
 <thead align="center">
   <tr>
-    <th width="150">Link</th>
+    <th width="200">Link</th>
     <th width="600">Description</th>
     <th width="100">Skills</th>
     <th width="100">Technos</th>
@@ -298,7 +298,7 @@
 <table align="center">
 <thead align="center">
   <tr>
-    <th width="150">Link</th>
+    <th width="200">Link</th>
     <th width="600">Description</th>
     <th width="100">Skills</th>
     <th width="100">Technos</th>
