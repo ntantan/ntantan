@@ -120,25 +120,6 @@
 </tbody>
 </table>
 
-<h3 align="center">◦ Algo & AI ◦</h3>
-
-<table align="center">
-<thead align="center">
-  <tr>
-    <th width="150">Link</th>
-    <th width="700">Description</th>
-    <th width="150">Technos</th>
-  </tr>
-</thead>
-<tbody align="center">
-  <tr>
-    <td><a href="https://github.com/ntantan/ft_piscine_python">Piscine Python</a></td>
-    <td>42 Python and ML Modules</td>
-    <td><a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="20" height="20"/></td>
-  </tr>
-</tbody>
-</table>
-
 <br></br>
 
 <h1></h1>
