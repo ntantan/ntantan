@@ -45,6 +45,26 @@
 
 ![student at 42 Paris (2)](https://github.com/ntantan/ntantan/assets/78843500/0fece2ae-a3dd-4d68-90f8-30ac6b0a356c)
 
+<h3 align="center"><a href=https://www.codingame.com>◦ Advent of Code ◦</a></h3>
+
+<table align="center">
+<thead align="center">
+  <tr>
+    <th width="150">Link</th>
+    <th width="700">Description</th>
+    <th width="150">Technos</th>
+  </tr>
+</thead>
+<tbody align="center">
+  <tr>
+    <td><a href=https://github.com/ntantan/adventOfCode2023>Advent of Code 2023</a></td>
+    <td>As they say, a code question a day, keeps unemployement away<br>
+        Day: 12/25 (In progress)</td>
+    <td><a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a></td>
+  </tr>
+</tbody>
+</table>
+
 <h3 align="center"><a href=https://www.codingame.com>◦ CodinGame ◦</a></h3>
 
 <table align="center">
