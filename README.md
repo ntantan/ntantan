@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
+<h1 align="center">Intern Software Developer at Codingame</h1>
 
 ![student at 42 Paris](https://github.com/ntantan/ntantan/assets/78843500/b2b3755e-62a8-428f-baf2-105e3e90ed03)
 <h4 align="center">Connect with me <a href="https://linkedin.com/in/ntanl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ntanl" height="15" width="15" /></a></h4>
